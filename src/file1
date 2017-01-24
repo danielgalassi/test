@@ -1,1 +1,8 @@
 hello world!
+
+<<<<<<< HEAD
+let's be nice and play safe
+=======
+let's try... conflicts!
+
+>>>>>>> refs/remotes/origin/america
